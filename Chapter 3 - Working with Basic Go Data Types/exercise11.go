@@ -26,5 +26,5 @@ func main() {
 		fmt.Println(err)
 	}
 
-	// usage example exercise11.go "10:20"
+	// usage example: go run exercise11.go "10:20"
 }
