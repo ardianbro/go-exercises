@@ -18,6 +18,7 @@ func main() {
 }
 
 // simples form of loop
+// init statement: executed before first iteration; condition expression: evaluated before every iteration; post statement: executed at the end of every iteration
 func loop1() {
 	for i := 0; i < 100; i++ {
 		if i%20 == 0 {
