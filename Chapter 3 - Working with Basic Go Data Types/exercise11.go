@@ -25,4 +25,6 @@ func main() {
 	} else {
 		fmt.Println(err)
 	}
+
+	// usage example exercise11.go "10:20"
 }
